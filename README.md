@@ -2,7 +2,8 @@
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
-<h3 align="center">I am a backend developer specializing in Laravel, focusing on building robust server-side applications and managing databases efficiently. I work on tasks like creating and validating models, managing relationships between entities, handling middleware, and developing features that may or may not rely on JavaScript, depending on the project's requirements. I also have experience with Laravel Breeze, Blade templates, and other Laravel features, ensuring smooth functionality and secure, well-structured applications.</h3>
+<h3 align="center">I am a Backend Engineer specializing in Laravel , I am dedicated to building efficient and scalable web applications. My journey in software development has been driven by a passion for learning and adapting to new challenges. I believe in continuous improvement and actively seek out opportunities to expand my skill set. I enjoy collaborating with others and sharing knowledge. Let’s innovate together!
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christeen-nader&label=Profile%20views&color=0e75b6&style=flat" alt="christeen-nader" /> </p>
 
